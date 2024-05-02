@@ -1,0 +1,19 @@
+{
+  "name": "actividad-1.-corte-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ejercicio1": "node Ejercicio_1/ejercicio1.js",
+    "ejercicio2": "node Ejercicio_2/ejercicio2.js",
+    "ejercicio3": "node Ejercicio_3/ejercicio3.js",
+    "ejercicio4": "node Ejercicio_4/Ejercicio4.js",
+    "ejercicio5": "node Ejercicio_5/ejercicio5.js",
+    "ejercicio6": "node Ejercicio_6/ejercicio6.js"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
